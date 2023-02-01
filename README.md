@@ -1,8 +1,8 @@
 # Machine learning basics
 ## basic conceptes
-supervised learning: 
+supervised learning : 
 -linear regression  -clasification<br>
-unsupervised learning:
+unsupervised learning :
 -clustring 
 ## algorithms implementaion 
 -linear regression

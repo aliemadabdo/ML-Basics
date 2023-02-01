@@ -7,8 +7,4 @@ unsupervised learning :
 ## algorithms implementaion 
 -linear regression
 ## workig with liberaries
--sklearn
--pandas
--csv
--numpy
--matplotlib
+-sklearn -pandas -csv -scipy -numpy -matplotlib

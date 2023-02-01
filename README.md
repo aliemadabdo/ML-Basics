@@ -1,12 +1,12 @@
-#Machine learning basics
-##basic conceptes
+# Machine learning basics
+## basic conceptes
 -supervised learning:
 -linear regression  -clasification
 -unsupervised learning:
 -clustring -others
-##-algorithms implementaion 
+## -algorithms implementaion 
 -linear regression
-##-workig with liberaries
+## -workig with liberaries
 -sklearn
 -pandas
 -csv
